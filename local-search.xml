@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>我的第一篇文章</title>
+    <link href="/2025/02/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <url>/2025/02/09/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<h1 id="第一次发布文章"><a href="#第一次发布文章" class="headerlink" title="第一次发布文章"></a>第一次发布文章</h1><ul><li>这是我的第一次发表文章,用来做测试,并且也留作纪念</li><li>这段时间我在阿里云服务器上部署了多个项目</li><li>一个是 notion 用于做笔记,还有一个文件快递库,还没进行测试</li></ul>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>生活工具</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/02/07/hello-world/"/>
     <url>/2025/02/07/hello-world/</url>
